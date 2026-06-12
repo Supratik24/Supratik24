@@ -1,25 +1,345 @@
-# 💫 About Me:
-👋 Hi, I'm Supratik<br><br>🤖 AI Enthusiast<br>📚 Passionate about Machine Learning<br>🚀 Curious to explore how AI works in real-world applications<br><br>🚀 About Me<br><br>I am currently a second-year student specializing in Artificial Intelligence and Machine Learning (AIML).<br>I’m highly enthusiastic about Machine Learning and always eager to understand how models work behind the scenes.<br><br>I enjoy:<br><br>🧠 Learning ML algorithms from scratch<br><br>📊 Working with data and discovering insights<br><br>💻 Building small AI/ML projects<br><br><br>🛠️ Skills & Tools<br><br>💻 Programming: Python, C++<br><br>📊 Libraries: NumPy, Pandas, Matplotlib<br><br>🤖 Machine Learning: Scikit-Learn<br><br>🧠 Deep Learning: TensorFlow / PyTorch (Learning Phase 🚧)<br><br>🔧 Tools: Git, GitHub, VS Code, Jupyter Notebook<br><br>⚡ Fun Fact<br><br>I love understanding how machines learn and think — turning data into intelligence fascinates me!
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:4F46E5,50:7C3AED,100:A855F7&text=Supratik%20Sangram&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_.404_found._) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/supratik26) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Supratik26) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:supratiksangram9@gmail.com) 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=A855F7&center=true&vCenter=true&width=900&lines=Artificial+Intelligence+%26+Machine+Learning+Student;Machine+Learning+Enthusiast;Aspiring+AI+Engineer;Python+Developer;Building+Intelligent+Systems;Turning+Data+Into+Intelligence)](https://git.io/typing-svg)
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat-square&logo=windows-terminal&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat-square&logo=firebase) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat-square&logo=netlify&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat-square&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat-square&logo=firebase&logoColor=ffcd34) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=flat-square&logo=adobe%20photoshop&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=flat-square&logo=Adobe%20Lightroom&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=flat-square&logo=sketch&logoColor=black) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat-square&logo=githubactions&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Supratik&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Supratik&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Supratik&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<br>
 
-### ✍️ Random Dev Quote
+![](https://komarev.com/ghpvc/?username=Supratik24&label=PROFILE+VIEWS&color=7C3AED&style=for-the-badge)
+![](https://img.shields.io/github/followers/Supratik24?style=for-the-badge&color=7C3AED)
+![](https://img.shields.io/github/stars/Supratik24?style=for-the-badge&color=7C3AED)
+
+<br><br>
+
+<a href="https://linkedin.com/in/supratik26">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/_.404_found._">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://x.com/Supratik26">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+
+<a href="mailto:supratiksangram9@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+# 💫 About Me
+
+👋 Hi, I'm **Supratik Sangram**
+
+🤖 AI Enthusiast  
+📚 Passionate about Machine Learning  
+🚀 Curious to explore how AI works in real-world applications
+
+## 🚀 About Me
+
+I am currently a **Second-Year Artificial Intelligence & Machine Learning (AIML) Student**.
+
+I’m highly enthusiastic about Machine Learning and always eager to understand how models work behind the scenes.
+
+### What I Love
+
+- 🧠 Learning ML Algorithms from Scratch
+- 📊 Working with Data and Discovering Insights
+- 💻 Building AI & ML Projects
+- 🚀 Exploring New Technologies
+- 🤝 Open Source Contributions
+- 📚 Continuous Learning
+
+### Open To
+
+- AI/ML Internships
+- Research Collaborations
+- Open Source Projects
+- Hackathons
+- Student Communities
+
+---
+
+# 🛠️ Tech Stack
+
+## 💻 Programming Languages
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,cpp,c" />
+</p>
+
+## 🌐 Frontend
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,javascript" />
+</p>
+
+## 🗄️ Database
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mysql" />
+</p>
+
+## ⚙️ Tools & Technologies
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter,linux" />
+</p>
+
+## 📚 Libraries & Frameworks
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/TensorFlow-Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-Learning-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+
+</p>
+
+---
+
+# 🤖 AI / ML Expertise
+
+| Domain | Proficiency | Details |
+|----------|------------|----------|
+| Machine Learning | Intermediate | Supervised & Unsupervised Learning |
+| Python Development | Advanced | Automation & AI Projects |
+| Data Analysis | Intermediate | NumPy, Pandas |
+| Data Visualization | Intermediate | Matplotlib |
+| Deep Learning | Learning | TensorFlow & PyTorch |
+| Model Evaluation | Intermediate | Metrics & Validation |
+| Feature Engineering | Intermediate | Data Preparation |
+| Problem Solving | Intermediate | DSA & Algorithms |
+
+---
+
+# 🚀 Featured Projects
+
+<details>
+<summary><b>Machine Learning Prediction System</b></summary>
+
+### Predictive Analytics Project
+
+| Category | Details |
+|-----------|---------|
+| Stack | Python, Scikit-Learn, Pandas |
+| Scale | Academic Project |
+| Performance | Optimized ML Models |
+| Security | Clean Data Processing |
+| Impact | Better Predictions |
+| Repository | Coming Soon |
+
+Built predictive machine learning models using structured datasets and model evaluation techniques.
+
+</details>
+
+<details>
+<summary><b>AI Chatbot Assistant</b></summary>
+
+### Intelligent Conversational AI
+
+| Category | Details |
+|-----------|---------|
+| Stack | Python, NLP |
+| Scale | Personal Project |
+| Performance | Fast Responses |
+| Security | Input Validation |
+| Impact | AI Learning |
+| Repository | Coming Soon |
+
+Developed a chatbot to understand user queries and provide intelligent responses.
+
+</details>
+
+<details>
+<summary><b>Data Visualization Dashboard</b></summary>
+
+### Data Analytics Dashboard
+
+| Category | Details |
+|-----------|---------|
+| Stack | Python, Pandas, Matplotlib |
+| Scale | Student Project |
+| Performance | Fast Visualizations |
+| Security | Structured Data Pipeline |
+| Impact | Better Insights |
+| Repository | Coming Soon |
+
+Created visual dashboards to analyze trends and patterns from datasets.
+
+</details>
+
+---
+
+# 💼 Experience
+
+### AIML Student Developer
+
+**2024 - Present**
+
+Focused on:
+
+- Machine Learning
+- Data Analysis
+- Python Programming
+- AI Fundamentals
+- Deep Learning
+- Problem Solving
+
+### Skills
+
+`Python` `Machine Learning` `Data Analysis` `Git` `GitHub` `Problem Solving`
+
+---
+
+# 🏆 Achievements
+
+| Recognition | Details |
+|-------------|---------|
+| AIML Student | Pursuing Artificial Intelligence & Machine Learning |
+| Python Developer | Building AI Applications |
+| Continuous Learner | Exploring New Technologies |
+| Open Source Enthusiast | Learning Collaborative Development |
+
+---
+
+# 📜 Certifications
+
+### AWS
+
+![AWS](https://img.shields.io/badge/AWS-Learning-FF9900?style=for-the-badge&logo=amazonaws)
+
+### Oracle
+
+![Oracle](https://img.shields.io/badge/Oracle-Learning-F80000?style=for-the-badge&logo=oracle)
+
+### NPTEL
+
+![NPTEL](https://img.shields.io/badge/NPTEL-Certified-005BAC?style=for-the-badge)
+
+### Cisco
+
+![Cisco](https://img.shields.io/badge/Cisco-Networking-1BA0D7?style=for-the-badge&logo=cisco)
+
+---
+
+# 💻 Coding Profiles
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/LeetCode-Problem%20Solver-FFA116?style=for-the-badge&logo=leetcode"/>
+<img src="https://img.shields.io/badge/GeeksforGeeks-Coding%20Practice-0F9D58?style=for-the-badge&logo=geeksforgeeks"/>
+<img src="https://img.shields.io/badge/HackerRank-Competitive%20Programming-00EA64?style=for-the-badge&logo=hackerrank"/>
+<img src="https://img.shields.io/badge/CodeChef-Coding-5B4638?style=for-the-badge&logo=codechef"/>
+
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+![](https://github-readme-stats.vercel.app/api?username=Supratik24&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
+
+![](https://nirzak-streak-stats.vercel.app/?user=Supratik24&theme=tokyonight&hide_border=false)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Supratik24&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+---
+
+# 🏆 GitHub Trophies
+
+![](https://github-profile-trophy.vercel.app/?username=Supratik24&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10)
+
+---
+
+# 📈 Contribution Activity
+
+[![Supratik's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Supratik24&theme=tokyo-night)](https://github.com/Supratik24)
+
+---
+
+# ✍️ Random Dev Quote
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Supratik&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/Supratik25) 
+# 👀 Visitor Count
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+[![](https://visitcount.itsvg.in/api?id=Supratik24&icon=0&color=6)](https://visitcount.itsvg.in)
+
+---
+
+# 💰 Support Me
+
+[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/Supratik25)
+
+---
+
+# 🎯 Current Focus
+
+```yaml
+Learning:
+  - Machine Learning
+  - Deep Learning
+  - TensorFlow
+  - PyTorch
+
+Building:
+  - AI Projects
+  - ML Applications
+  - Data Analytics Solutions
+
+Exploring:
+  - Generative AI
+  - NLP
+  - Computer Vision
+
+Open_To:
+  - Internships
+  - Open Source
+  - Collaborations
+  - Research Opportunities
+```
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="mailto:supratiksangram9@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/supratik26">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/_.404_found._">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://x.com/Supratik26">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### 🚀 Turning Data Into Intelligence Through AI & Machine Learning
+
+<img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:4F46E5,50:7C3AED,100:A855F7"/>
+
+</div>
