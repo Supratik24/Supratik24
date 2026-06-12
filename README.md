@@ -334,6 +334,12 @@ Open_To:
 
 </p>
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Supratik24/Supratik24/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
 ---
 
 <div align="center">
