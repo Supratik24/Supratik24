@@ -42,7 +42,7 @@
 
 ## 🚀 About Me
 
-I am currently a **Second-Year Artificial Intelligence & Machine Learning (AIML) Student**.
+I am currently a **Third-Year Artificial Intelligence & Machine Learning (AIML) Student**.
 
 I’m highly enthusiastic about Machine Learning and always eager to understand how models work behind the scenes.
 
